@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title id="title">Assembly</title>
-  <rect width="64" height="64" rx="12" fill="#111827"/>
-  <path d="M32 10 51 21v22L32 54 13 43V21z" fill="#7c3aed"/>
-  <path d="M32 18v28M20 25l24 14M44 25 20 39" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
-  <text x="32" y="59" text-anchor="middle" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#ffffff">ASM</text>
-</svg>

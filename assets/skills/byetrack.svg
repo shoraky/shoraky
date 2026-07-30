@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
-  <title id="title">ByteTrack</title>
-  <rect width="64" height="64" rx="12" fill="#172554"/>
-  <rect x="13" y="17" width="16" height="14" rx="2" fill="none" stroke="#60a5fa" stroke-width="4"/>
-  <rect x="35" y="33" width="16" height="14" rx="2" fill="none" stroke="#facc15" stroke-width="4"/>
-  <path d="M29 24c8 0 14 2 18 8" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-dasharray="3 6"/>
-  <text x="32" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#ffffff">TRACK</text>
-</svg>
